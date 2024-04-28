@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "playerImg": "/ks01.png",
+    "name": "immortalShi",
+    "tel": 13913140830,
+    "introduce": "B站up煮，热衷于修建秘密基地，村庄规划；典型的山顶洞人。",
+    "PS": "不知道为什么特别喜欢制图。",
+    "bilibiliUrl": "http://live.bilibili.com/22395590"
+  },
+  {
+    "id": 2,
+    "playerImg": "/ks02.png",
+    "name": "我是黑白",
+    "tel": 13913140830,
+    "introduce": "B站up煮，热衷于巨观建筑,建筑师。",
+    "PS": "不知道为什么经常会少建一格。",
+    "bilibiliUrl": "https://live.bilibili.com/22447900"
+  }
+]

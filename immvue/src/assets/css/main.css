@@ -1,0 +1,17 @@
+.container {
+    height: 100vh;
+    width: 100vw;
+    padding: 0;
+    margin: 0;
+    /*overflow: hidden;*/
+    position: relative;
+}
+
+.header {
+    width: 100vw;
+    height: 70px;
+    background-color: rgba(51, 51, 51, .8);
+    position: fixed;
+    display: flex;
+    z-index: 999;
+}

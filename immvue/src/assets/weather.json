@@ -1,0 +1,165 @@
+[{
+  "code": 0,
+  "name": "晴",
+  "icon": "/w0.png"
+},{
+  "code": 1,
+  "name": "晴",
+  "icon": "/w1.png"
+},{
+  "code": 2,
+  "name": "晴",
+  "icon": "/w2.png"
+},{
+  "code": 3,
+  "name": "晴",
+  "icon": "/w3.png"
+},{
+  "code": 4,
+  "name": "多云",
+  "icon": "/w4.png"
+},{
+  "code": 5,
+  "name": "晴间多云",
+  "icon": "/w5.png"
+},{
+  "code": 6,
+  "name": "晴间多云",
+  "icon": "/w6.png"
+},{
+  "code": 7,
+  "name": "大部多云",
+  "icon": "/w7.png"
+},{
+  "code": 8,
+  "name": "大部多云",
+  "icon": "/w8.png"
+},{
+  "code": 9,
+  "name": "阴",
+  "icon": "/w9.png"
+},{
+  "code": 10,
+  "name": "阵雨",
+  "icon": "/w10.png"
+},{
+  "code": 11,
+  "name": "雷阵雨",
+  "icon": "/w11.png"
+},{
+  "code": 12,
+  "name": "雷阵雨伴有冰雹",
+  "icon": "/w12.png"
+},{
+  "code": 13,
+  "name": "小雨",
+  "icon": "/w13.png"
+},{
+  "code": 14,
+  "name": "中雨",
+  "icon": "/w14.png"
+},{
+  "code": 15,
+  "name": "大雨",
+  "icon": "/w15.png"
+},{
+  "code": 16,
+  "name": "暴雨",
+  "icon": "/w16.png"
+},{
+  "code": 17,
+  "name": "大暴雨",
+  "icon": "/w17.png"
+},{
+  "code": 18,
+  "name": "特大暴雨",
+  "icon": "/w18.png"
+},{
+  "code": 19,
+  "name": "冻雨",
+  "icon": "/w19.png"
+},{
+  "code": 20,
+  "name": "雨夹雪",
+  "icon": "/w20.png"
+},{
+  "code": 21,
+  "name": "阵雪",
+  "icon": "/w21.png"
+},{
+  "code": 22,
+  "name": "小雪",
+  "icon": "/w22.png"
+},{
+  "code": 23,
+  "name": "中雪",
+  "icon": "/w23.png"
+},{
+  "code": 24,
+  "name": "大雪",
+  "icon": "/w24.png"
+},{
+  "code": 25,
+  "name": "暴雪",
+  "icon": "/w25.png"
+},{
+  "code": 26,
+  "name": "浮尘",
+  "icon": "/w26.png"
+},{
+  "code": 27,
+  "name": "扬沙",
+  "icon": "/w27.png"
+},{
+  "code": 28,
+  "name": "沙尘暴",
+  "icon": "/w28.png"
+},{
+  "code": 29,
+  "name": "强沙尘暴",
+  "icon": "/w29.png"
+},{
+  "code": 30,
+  "name": "雾",
+  "icon": "/w30.png"
+},{
+  "code": 31,
+  "name": "霾",
+  "icon": "/w31.png"
+},{
+  "code": 32,
+  "name": "风",
+  "icon": "/w32.png"
+},{
+  "code": 33,
+  "name": "大风",
+  "icon": "/w33.png"
+},{
+  "code": 34,
+  "name": "飓风",
+  "icon": "/w34.png"
+},{
+  "code": 35,
+  "name": "热带风暴",
+  "icon": "/w35.png"
+},{
+  "code": 36,
+  "name": "龙卷风",
+  "icon": "/w36.png"
+},{
+  "code": 37,
+  "name": "冷",
+  "icon": "/w37.png"
+},{
+  "code": 38,
+  "name": "热",
+  "icon": "/w38.png"
+},{
+  "code": 99,
+  "name": "未知",
+  "icon": "/w99.png"
+}]
+
+
+
+

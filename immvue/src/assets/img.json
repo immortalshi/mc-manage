@@ -1,0 +1,42 @@
+[{
+    "id": 1,
+    "url": "/mc01.png",
+    "content": "xxxxxx",
+    "btn": "结束了 or 开始了"
+  },
+  {
+    "id": 2,
+    "url": "/mc02.png",
+    "content": "xxxxxx",
+    "btn": "Minecraft"
+  },
+  {
+    "id": 3,
+    "url": "/mc03.png",
+    "content": "xxxxxx",
+    "btn": "冒险开始"
+  },
+  {
+    "id": 4,
+    "url": "/mc04.png",
+    "content": "xxxxxx",
+    "btn": "致富之路"
+  },
+  {
+    "id": 5,
+    "url": "/mc05.png",
+    "content": "xxxxxx",
+    "btn": "精彩人生"
+  },
+  {
+    "id": 6,
+    "url": "/mc06.png",
+    "content": "xxxxxx",
+    "btn": "基友探索"
+  },
+  {
+    "id": 7,
+    "url": "/mc07.png",
+    "content": "xxxxxx",
+    "btn": "往事如烟"
+  }]
